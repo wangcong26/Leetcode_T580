@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.Leetcode_T580;
 
 public class Leetcode_80
 {

@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.Leetcode_T580;
 
 import java.util.ArrayList;
 import java.util.Arrays;
